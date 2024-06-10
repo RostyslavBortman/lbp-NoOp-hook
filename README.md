@@ -52,3 +52,5 @@ Liquidity Providers add liquidity through the hook, where the hook takes their t
 - Add function to withdraw liquidity (from Pool Manager) & Add liquidity into the specified by manager range, after LBP sale has ended;
 - Add additional modifications like fees adjustment, whitelist, vesting schedule for the users, etc.;
 - Add more tests; 
+
+LBP functionality library was taken from https://www.fjordfoundry.com/
