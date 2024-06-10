@@ -23,6 +23,7 @@ Liquidity Bootstrapping Pools (LBPs) are a specialized type of automated market 
 
 ### Setting Up
 
+- Install foundry - https://book.getfoundry.sh/getting-started/installation 
 - `forge test`
 
 ### Flow
